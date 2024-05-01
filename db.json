@@ -35,6 +35,42 @@
       "name": "Cookies",
       "category": "Dessert",
       "isInCart": false
+    },
+    {
+      "name": "mangos",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 22
+    },
+    {
+      "name": "water",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 26
+    },
+    {
+      "name": "avo",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 27
+    },
+    {
+      "name": "icecream",
+      "category": "Dessert",
+      "isInCart": false,
+      "id": 30
+    },
+    {
+      "name": "olive oil",
+      "category": "Produce",
+      "isInCart": false,
+      "id": 31
+    },
+    {
+      "name": "oat milk",
+      "category": "Dairy",
+      "isInCart": false,
+      "id": 32
     }
   ]
 }
